@@ -1,8 +1,4 @@
-/*
-Authors: Randall Hunt - Driver - %50 
-Raed Seraj - Navigator - %50 
-Program: GraphBase.hpp 
-*/
+
 #ifndef GRAPHBASE_H
 #define GRAPHBASE_H
 
