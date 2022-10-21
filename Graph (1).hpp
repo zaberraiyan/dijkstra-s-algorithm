@@ -1,8 +1,4 @@
-/*
-Authors: Randall Hunt - Driver - %50 
-Raed Seraj - Navigator - %50 
-Program: Graph.hpp 
-*/
+
 #ifndef GRAPH_HPP
 #define GRAPH_HPP
 
