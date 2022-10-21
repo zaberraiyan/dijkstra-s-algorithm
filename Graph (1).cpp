@@ -1,8 +1,4 @@
-/*
-Authors: Randall Hunt - Driver - %50 
-Raed Seraj - Navigator - %50 
-Program: Graph.cpp 
-*/
+
 #include "Graph.hpp"
 #include <iostream>
 const unsigned long infinity = 4294967295;
